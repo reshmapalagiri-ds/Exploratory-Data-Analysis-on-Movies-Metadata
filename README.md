@@ -122,18 +122,22 @@ Certain years (e.g., 2010–2015) saw consistent high revenue trends across genr
 
 Some of the key visualizations include:
 
-📆 Movie releases by year
-
-🎭 Genre frequency distribution
-
-💰 Budget vs Revenue scatter plot
-
-⭐ Top 10 highest-rated movies
-
-📊 Popularity vs Vote Count comparison
+💰 Profit Distribution
 
 
-(You can include example plots in an images/ folder and reference them using Markdown:
+📊 Budget vs Revenue
+
+
+🎬 Profit by Action Genre
+
+
+⏳ Profit Over Time
+
+
+🔥 Correlation Heatmap
+
+
+(You can explore the visual outputs below for a better understanding of the data)
 ![Profit Distribution](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/6d7d73f608b668bec493cb8bcf8d14baba53d125/ss%205.png)
 ![Budeget vs Revenue](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/57084871b1576536c0961813b5348ec8050a927a/ss%201.png)
 ![Profit by Action Genre](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/3e20fba665e4dc9f5e2914124573ec67ed5a0e3f/ss%202.png)
