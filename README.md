@@ -186,7 +186,7 @@ Drawing data-driven conclusions and communicating insights clearly
 Reshma Palagiri
 📧 [reshmapalagiri1807@gmail.com]
 💼 [www.linkedin.com/in/palagiri-reshma]
-🌐 []
+🌐 [https://github.com/reshmapalagiri-ds]
 
 
 
