@@ -134,7 +134,8 @@ Some of the key visualizations include:
 
 
 (You can include example plots in an images/ folder and reference them using Markdown:
-![Genre Distribution](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/6d7d73f608b668bec493cb8bcf8d14baba53d125/ss%205.png)
+![Profit Distribution](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/6d7d73f608b668bec493cb8bcf8d14baba53d125/ss%205.png)
+![Budeget vs Revenue](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/57084871b1576536c0961813b5348ec8050a927a/ss%201.png)
 
 
 ## 📁 Project Structure
