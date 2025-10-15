@@ -1,8 +1,8 @@
 # Exploratory-Data-Analysis
 
-##🎬 Movies Metadata Analysis Project
+## 🎬 Movies Metadata Analysis Project
 
-##📖 Overview
+## 📖 Overview
 
 The Movies Metadata Analysis Project is a data exploration and visualization project aimed at uncovering trends and insights in the movie industry.
 Using a comprehensive dataset containing thousands of movies with attributes like genres, ratings, budgets, revenues, and release years, this project focuses on:
@@ -19,7 +19,7 @@ Drawing insights about what drives a movie’s success
 This project demonstrates data wrangling, analytical thinking, and storytelling through data — all essential skills for a Data Analyst / Data Scientist role.
 
 
-##🎯 Project Objectives
+## 🎯 Project Objectives
 
 Clean and preprocess movie metadata to ensure data quality
 
@@ -32,7 +32,7 @@ Understand how factors like budget, genre, and release year influence performanc
 Present insights that help understand audience preferences and market behavior
 
 
-##🧩 Dataset Details
+## 🧩 Dataset Details
 
 Number of Records: ~45,000 movies
 
@@ -55,7 +55,7 @@ vote_count – Number of audience votes
 popularity – Popularity score based on TMDB data
 
 
-##🧠 Tools & Technologies Used
+## 🧠 Tools & Technologies Used
 
 Language: Python 🐍
 
@@ -66,7 +66,7 @@ Data Handling → pandas, numpy
 Visualization → matplotlib, seaborn
 
 
-##🧹 Data Cleaning & Preprocessing
+## 🧹 Data Cleaning & Preprocessing
 
 Steps performed during preprocessing include:
 
@@ -83,7 +83,7 @@ Handling outliers in budget and revenue
 Removing duplicate records
 
 
-##📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
 
@@ -105,7 +105,7 @@ The following analyses were performed:
 6. Popularity Distribution: Most popular movies based on TMDB popularity score
 
 
-##🔍 Key Insights
+## 🔍 Key Insights
 
 The number of movies released increased sharply after 2000
 
@@ -118,7 +118,7 @@ A few low-budget movies achieved great success due to strong storytelling
 Certain years (e.g., 2010–2015) saw consistent high revenue trends across genres
 
 
-##📈 Visualizations
+## 📈 Visualizations
 
 Some of the key visualizations include:
 
@@ -137,7 +137,7 @@ Some of the key visualizations include:
 ![Genre Distribution](images/genre_distribution.png))
 
 
-##📁 Project Structure
+## 📁 Project Structure
 
 ├── data/
 │   ├── movies_metadata.csv
@@ -149,7 +149,7 @@ Some of the key visualizations include:
 └── README.md
 
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Build an interactive dashboard using Streamlit or Power BI
 
@@ -160,7 +160,7 @@ Integrate additional datasets like actor/crew information for deeper insights
 Add an automated report generation script using Python
 
 
-##💡 Learning Outcomes
+## 💡 Learning Outcomes
 
 Through this project, I practiced and improved my skills in:
 
@@ -173,7 +173,7 @@ Creating effective visualizations
 Drawing data-driven conclusions and communicating insights clearly
 
 
-##👤 Author
+## 👤 Author
 
 Reshma Palagiri
 📧 [reshmapalagiri1807@gmail.com]
