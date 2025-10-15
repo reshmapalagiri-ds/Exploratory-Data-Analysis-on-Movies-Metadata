@@ -137,6 +137,7 @@ Some of the key visualizations include:
 ![Profit Distribution](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/6d7d73f608b668bec493cb8bcf8d14baba53d125/ss%205.png)
 ![Budeget vs Revenue](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/57084871b1576536c0961813b5348ec8050a927a/ss%201.png)
 ![Profit by Action Genre](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/3e20fba665e4dc9f5e2914124573ec67ed5a0e3f/ss%202.png)
+![Profit over time](https://github.com/reshmapalagiri-ds/Exploratory-Data-Analysis-on-Movies-Metadata/blob/0308f29e9674288e9792781b8b8a320da7732c23/ss%203.png)
 
 
 ## 📁 Project Structure
